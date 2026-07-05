@@ -155,30 +155,31 @@ gap:15px;
 text-decoration:none;
 
 }
+ .logo img{
 
-.logo img{
-
-width:60px;
-
-height:60px;
-
-object-fit:contain;
+width:65px;
+height:65px;
+border-radius:50%;
+object-fit:cover;
+display:block;
 
 }
 
-.logo h2{
+ .logo h2{
 
-font-size:22px;
-
+font-size:28px;
+font-weight:700;
 color:#fff;
+line-height:1.2;
 
 }
 
 .logo p{
 
-color:#D7F7F4;
-
-font-size:14px;
+font-size:20px;
+font-weight:600;
+color:#7EF5E8;
+margin-top:3px;
 
 }
 
